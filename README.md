@@ -40,7 +40,7 @@ Bagian pembuka website yang langsung menyambut pengunjung dengan efek visual dra
 
 | 📸 Tampilan (Screenshot) |
 | :---: |
-| *(Tambahkan screenshot Hero Section di sini)* |
+| <img width="1352" height="678" alt="image" src="https://github.com/user-attachments/assets/00c6e5fa-0f1c-4ffe-8d24-b5530ad43d8d" /> |
 
 **Kode:**
 
@@ -124,7 +124,7 @@ Navigasi *floating* bergaya *glassmorphism* yang tersembunyi di awal, serta indi
 
 | 📸 Tampilan (Screenshot) |
 | :---: |
-| *(Tambahkan screenshot Navbar & Scroll Indicator di sini)* |
+| <img width="246" height="93" alt="image" src="https://github.com/user-attachments/assets/d00e74aa-71d3-415c-9c35-fae7ad5491a8" /> <img width="346" height="57" alt="image" src="https://github.com/user-attachments/assets/43933dbf-eccb-4113-ba4f-2e08256bfaa6" /> |
 
 **Kode:**
 
@@ -195,7 +195,7 @@ Bagian pengenalan diri yang memuat foto profil dengan efek *glassmorphism card* 
 
 | 📸 Tampilan (Screenshot) |
 | :---: |
-| *(Tambahkan screenshot About Section di sini)* |
+| <img width="1353" height="675" alt="image" src="https://github.com/user-attachments/assets/31da8c9e-37ea-46e3-b274-ed4a3b911846" /> |
 
 **Kode:**
 
@@ -291,7 +291,7 @@ Daftar riwayat pengalaman profesional dan akademis berbentuk *list* yang ditulis
 
 | 📸 Tampilan (Screenshot) |
 | :---: |
-| *(Tambahkan screenshot Experience Section di sini)* |
+| <img width="1351" height="681" alt="image" src="https://github.com/user-attachments/assets/a36a4a08-be80-46b1-9eb0-2f50ff4e39d2" /> |
 
 **Kode:**
 
@@ -346,7 +346,7 @@ Galeri sertifikat berbentuk kartu responsif yang dirender secara dinamis oleh Vu
 
 | 📸 Tampilan (Screenshot) |
 | :---: |
-| *(Tambahkan screenshot Certificates Section di sini)* |
+| <img width="1352" height="681" alt="image" src="https://github.com/user-attachments/assets/535c81c4-9713-4250-b4e5-e2a1bcb552fc" /> |
 
 **Kode:**
 
